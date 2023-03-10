@@ -12,6 +12,7 @@
 #### Серіалізация<br/>
 
 ### Найти двоичное представление целой части значения кинетической энергии физического тела при заданных значениях массы и скорости.
-![Image alt](https://github.com/m1r4sh/pavliuk_mykhailo/blob/main/prorgam2.png)
 ### Рішення
+![Image alt](https://github.com/m1r4sh/pavliuk_mykhailo/blob/main/prorgam2.png)
+
 
