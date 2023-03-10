@@ -15,7 +15,7 @@
 ####  Запуск:
 ![Image alt](https://github.com/m1r4sh/pavliuk_mykhailo/blob/main/prorgam2.png)
 ####  Результати тестування:
-![Image alt](https://github.com/m1r4sh/pavliuk_mykhailo/blob/main/prorgam2.png)
+![Image alt](https://github.com/m1r4sh/pavliuk_mykhailo/blob/main/testing.png)
 
 
 
