@@ -11,5 +11,5 @@
 <br/>
 Рішення:
 <br/>
-![Image alt](https://github.com/m1r4sh/pavliuk_mykhailo/blob/main/progrram.png)
+![Image alt](https://github.com/m1r4sh/pavliuk_mykhailo/blob/main/prorgam2.png)
 
