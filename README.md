@@ -17,5 +17,10 @@
 ####  Результати тестування:
 ![Image alt](https://github.com/m1r4sh/pavliuk_mykhailo/blob/main/testing.png)
 
+### Task03
+#### Спадкування.
+#### Інтерфейси.
+#### Колекції пакету java.util
+
 
 
