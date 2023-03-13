@@ -25,4 +25,4 @@
 ####  Запуск:
 ![Image alt](https://github.com/m1r4sh/pavliuk_mykhailo/blob/main/Screenshot_1.png)
 ####  Тестування:
-![Image alt] (https://github.com/m1r4sh/pavliuk_mykhailo/blob/main/Screenshot_16.png)
+![Image alt](https://github.com/m1r4sh/pavliuk_mykhailo/blob/main/Screenshot_16.png)
