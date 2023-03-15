@@ -34,7 +34,7 @@
 #### Запуск:
 ![Image alt](https://github.com/m1r4sh/pavliuk_mykhailo/blob/main/task04m.png)
 #### Тестування:
-![Image alt](https://github.com/m1r4sh/pavliuk_mykhailo/blob/main/Screenshot_5.png)
+![Image alt](https://github.com/m1r4sh/pavliuk_mykhailo/blob/main/04test.png)
 ### Task05
 #### Обробка колекцій.
 #### Шаблони Singletone, Command
