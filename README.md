@@ -38,6 +38,12 @@
 ### Task05
 #### Обробка колекцій.
 #### Шаблони Singletone, Command
+###  Завдання: Реалізувати можливість скасування (undo) операцій (команд). Продемонструвати поняття "макрокоманда". При розробці програми використовувати шаблон Singletone.
+#### Запуск:
+![Image alt](https://github.com/m1r4sh/pavliuk_mykhailo/blob/main/Screenshot_4.png)
+#### Тестування:
+![Image alt](https://github.com/m1r4sh/pavliuk_mykhailo/blob/main/Screenshot_5.png)
+
 
 
 
