@@ -43,7 +43,14 @@
 ![Image alt](https://github.com/m1r4sh/pavliuk_mykhailo/blob/main/Screenshot_4.png)
 #### Тестування:
 ![Image alt](https://github.com/m1r4sh/pavliuk_mykhailo/blob/main/Screenshot_5.png)
-
+### Task06
+#### Паралельне виконання.
+#### Шаблон Worker Thread
+###  Завдання: Продемонструвати можливість паралельної обробки елементів колекції (пошук мінімуму, максимуму, обчислення середнього значення, відбір за критерієм, статистична обробка тощо). Управління чергою завдань (команд) реалізувати за допомогою шаблону Worker Thread.
+#### Запуск:
+![Image alt](https://github.com/m1r4sh/pavliuk_mykhailo/blob/main/image%20(6).png)
+#### Тестування:
+![Image alt](https://github.com/m1r4sh/pavliuk_mykhailo/blob/main/image%20(7).png)
 
 
 
